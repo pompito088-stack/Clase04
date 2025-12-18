@@ -20,3 +20,10 @@ figure{
     border: 1px solid rgb(188, 169, 211);
     border-radius: 6px;
 }
+figure img{
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
